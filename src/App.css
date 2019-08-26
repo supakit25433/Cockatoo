@@ -31,3 +31,8 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  background-color: #272f41;
+  font-family: 'Open Sans';
+}
